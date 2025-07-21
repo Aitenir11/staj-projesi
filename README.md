@@ -1,1 +1,1 @@
-# staj-projesi
+2d platformer oyunu, unity uygulamasında C# dilinde yapıldı, a-sol d-sağ haraket ediyor, boşluk-zıplama(duvarda 2 kere zıplayabilirsiniz), fare sol tuşu topcuk atıyr. Suya düşünce kahraman ölüyor. oyunun amacı sonuna kadar gelmek, ama daha bimemiş hali. oyunda bazı baglar var(bazen kahraman canlandığı zaman sayısı artıyor)
